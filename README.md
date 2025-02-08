@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Simon Says Game
 
 ## Description 
