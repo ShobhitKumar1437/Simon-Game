@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simon Says Game
 
 ## Description 
@@ -68,3 +69,6 @@ Contributions are welcome! If you'd like to contribute to the Simon Says Game, p
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+=======
+Simon
+>>>>>>> d615f6f9262e1778667d1a7e8aa32fdfe7d92859
