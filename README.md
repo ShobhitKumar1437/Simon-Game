@@ -25,7 +25,7 @@ To play the game:
 4. If you repeat the sequence correctly, the game will advance to the next level and add another color to the sequence.
 5. If you make a mistake, the game will display your score and allow you to start again.
 
-[Play the game here! Click](https://shobhitkumar1437.github.io/Simon-Game/)
+[Play the game here! Click](https://simon-game25.netlify.app/)
 
 
 ## Rules
