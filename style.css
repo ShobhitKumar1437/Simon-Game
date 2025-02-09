@@ -40,6 +40,11 @@ body {
     background-color: green;
 }
 
+.hidden {
+    display: none;
+}
+
+
 @media(max-width: 1200px){
     .btn{
         height: 150px;
@@ -73,3 +78,55 @@ body {
 }
 
 
+#start-btn{
+    padding: 10px 15px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 20px auto;
+    display: block;
+}
+
+#start-btn:hover {
+    background-color: 45a049;
+}
+
+#congrats-modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.congrats-content {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 5px 15px  rgba(0, 0, 0, 0.3);
+}
+
+#close-btn {
+    padding: 10px 15px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+#close-btn:hover {
+   background-color: 45a049;
+}
