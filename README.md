@@ -77,7 +77,7 @@ Contributions are welcome! If you'd like to contribute to the Simon Says Game, p
 
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
 
 ## Acknowledgements
 - This game is inspired by the classic Simon electronic game.
