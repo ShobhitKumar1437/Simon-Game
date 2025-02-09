@@ -14,6 +14,7 @@
 <body>
     <h1>Simon Says Game</h1>
     <h2>Press any key to start the game</h2>
+    <p id="highest-score">Your highest Score: 0</p>
     <div class="btn-container">
         <div class="line-one">
             <div class="btn red" type="button" id="red"></div>
@@ -22,6 +23,15 @@
         <div class="line-two">
             <div class="btn green" type="button" id="green"></div>
             <div class="btn purple" type="button"  id="purple"></div>
+        </div>
+    </div>
+    <button id="start-btn">Start Game</button>
+    <div id="congrats-modal" class="hidden">
+        <div class="congrats-content">
+            <h3>Congratulations!</h3>
+            <p>You have a new highest score! 🎉</p>
+            <p>Highest Score: <b id="highest-score-display"></b> 😊</p>
+            <button id="close-btn">Close</button>
         </div>
     </div>
     <script src="script.js"></script>
