@@ -77,15 +77,11 @@ Contributions are welcome! If you'd like to contribute to the Simon Says Game, p
 
 
 ## License
-<<<<<<< HEAD
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
 
 ## Acknowledgements
 - This game is inspired by the classic Simon electronic game.
 - Font Awesome for providing the icon library.
 
 Enjoy playing the Simon Says Game and test your memory skills!
-=======
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
->>>>>>> 2fecf43afaaab3bc5ab375efc64016cec6a2f696
 =======
