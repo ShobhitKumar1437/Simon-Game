@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Simon Says Game
 
 ## Description 
@@ -78,6 +77,7 @@ Contributions are welcome! If you'd like to contribute to the Simon Says Game, p
 
 
 ## License
+<<<<<<< HEAD
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
@@ -86,5 +86,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Enjoy playing the Simon Says Game and test your memory skills!
 =======
-Simon
->>>>>>> d615f6f9262e1778667d1a7e8aa32fdfe7d92859
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+>>>>>>> 2fecf43afaaab3bc5ab375efc64016cec6a2f696
+=======
