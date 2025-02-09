@@ -1,0 +1,132 @@
+body {
+    text-align: center;
+    background-color: yellow;
+}
+
+.btn {
+    height: 150px;
+    width: 150px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 2.5rem;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+.yellow  {
+    background-color: #f99b45;
+}
+
+.red{
+    background-color: #d95980;
+}
+
+.purple {
+    background-color: #819ff9;
+}
+
+.green {
+    background-color: #63aac0;
+}
+
+.flash {
+    background-color: #fff;
+}
+
+.userflash{
+    background-color: green;
+}
+
+.hidden {
+    display: none;
+}
+
+
+@media(max-width: 1200px){
+    .btn{
+        height: 150px;
+        width:150px;
+        margin: 1.5rem;
+    }
+}
+
+@media(max-width: 768px){
+    .btn{
+        height: 100px;
+        width:100px;
+        margin: 1rem;
+        border-radius: 20%;
+        border: 7px solid black;
+    }
+}
+
+@media(max-width: 480px){
+    .btn{
+        height: 75px;
+        width:75px;
+        margin: 0.5rem;
+        border-radius: 20%;
+        border: 5px solid black;
+    }
+
+    h1, h2 {
+        font-size: 1.5rem;
+    }
+}
+
+
+#start-btn{
+    padding: 10px 15px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 20px auto;
+    display: block;
+}
+
+#start-btn:hover {
+    background-color: 45a049;
+}
+
+#congrats-modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.congrats-content {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 5px 15px  rgba(0, 0, 0, 0.3);
+}
+
+#close-btn {
+    padding: 10px 15px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+#close-btn:hover {
+   background-color: 45a049;
+}
